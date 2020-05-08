@@ -1,0 +1,9 @@
+.nav-link,
+.dropdown-item {
+  color: #7dc5ba !important;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.navbar-brand {
+  color: seagreen !important;
+}
